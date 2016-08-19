@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica</string>
+    <string name="lbl_opcion1">Option 1</string>
+    <string name="lbl_opcion2">Option 2</string>
+    <string name="lbl_opcion3">Option 3</string>
+    <string name="lbl_opcion4">Option 4</string>
+    <string name="lbl_desplazamineto">Sin  desplazamiento</string>
+</resources>

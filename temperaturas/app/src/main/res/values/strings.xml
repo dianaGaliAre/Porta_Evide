@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">temperaturas</string>
+    <string name="lbl_temperaturas">Temperaturas</string>
+    <string name="lbl_monedas">Monedas</string>
+    <string name="lbl_peso">Peso</string>
+    <string name="lbl_medidas">Medidas</string>
+    <string name="temperatura">Escribe la temperatura</string>
+    <string name="lbl_grados_celsius">¿Cual es la temperatura a convertir?</string>
+    <string name="lbl_convertir">Convertir a:</string>
+    <string name="lbl_fahrenheit">Fahrenheit</string>
+    <string name="lbl_kelvin">Kelvin</string>
+    <string name="lbl_rankin">Rankin</string>
+    <string name="lbl_resultado">resultado</string>
+    <string name="lbl_limpiar">Limpiar</string>
+    <string name="lbl_salir">Salir</string>
+    <string name="lbl_temperatura">Temperaturas </string>
+
+    <string name="lbl_yenes">Yenes</string>
+    <string name="lbl_euros">Euros</string>
+    <string name="lbl_dolares">Dolares</string>
+    <string name="moneda">Escribe los pesos mexicanos</string>
+    <string name="lbl_moneda_convertir">¿Ingrese la cantidad en moneda mexicana a convertir? </string>
+
+    <string name="lbl_millas">Millas</string>
+    <string name="lbl_kilometros">Kilometros</string>
+    <string name="lbl_yardas">Yardas</string>
+    <string name="metros">Escribe los metros</string>
+    <string name="lbl_medidas_convertir">¿Ingrese la cantidad de metros a convertir? </string>
+
+    <string name="lbl_nombre">Nombre:</string>
+    <string name="lbl_nombre_r">Mariana Saucedo Hern[andez</string>
+    <string name="lbl_numero">Número de Control:</string>
+    <string name="lbl_numero_r">1213100018</string>
+    <string name="lbl_grupo">Grupo:</string>
+    <string name="lbl_grupo_r">GITI7091-E</string>
+    <string name="lbl_asignatura">Asignatura:</string>
+    <string name="lbl_asignatura_r">Optativa II Aplicaciones Móviles</string>
+    <string name="lbl_fecha">Fecha:</string>
+    <string name="lbl_fecha_r">20 de Junio del 2016</string>
+
+</resources>

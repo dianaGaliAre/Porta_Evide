@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo">
+
+    <!-- The primary full-screen view. This can be replaced with whatever view
+         is needed to present your content, e.g. VideoView, SurfaceView,
+         TextureView, etc. -->
+    <TextView
+        android:id="@+id/fullscreen_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:keepScreenOn="true"
+        android:text="@string/dummy_content"
+        android:textColor="#33b5e5"
+        android:textSize="50sp"
+        android:textStyle="bold" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TableRow>
+            <ImageButton android:src="@drawable/u1"
+                android:id="@+id/btn_img1"
+                android:layout_width="90sp"
+                android:layout_height="90sp"/>
+
+            <ImageButton android:src="@drawable/u2"
+                android:id="@+id/btn_img2"
+                android:layout_width="90sp"
+                android:layout_height="90sp"/>
+
+            <ImageButton android:src="@drawable/u3"
+                android:id="@+id/btn_img3"
+                android:layout_width="90sp"
+                android:layout_height="90sp"/>
+
+            <ImageButton android:src="@drawable/u4"
+                android:id="@+id/btn_img4"
+                android:layout_width="90sp"
+                android:layout_height="90sp"/>
+        </TableRow>
+        <TableRow>
+            <ImageButton android:src="@drawable/u5"
+                android:id="@+id/btn_img5"
+                android:layout_width="90sp"
+                android:layout_height="90sp"/>
+
+            <ImageButton android:src="@drawable/u6"
+                android:id="@+id/btn_img6"
+                android:layout_width="90sp"
+                android:layout_height="90sp"/>
+
+            <ImageButton android:src="@drawable/u7"
+                android:id="@+id/btn_img7"
+                android:layout_width="90sp"
+                android:layout_height="90sp"/>
+
+            <ImageButton android:src="@drawable/u8"
+                android:id="@+id/btn_img8"
+                android:layout_width="90sp"
+                android:layout_height="90sp"/>
+        </TableRow>
+        <TableRow>
+            <ImageButton android:src="@drawable/u9"
+                android:id="@+id/btn_img9"
+                android:layout_width="90sp"
+                android:layout_height="90sp"/>
+
+            <ImageButton android:src="@drawable/u10"
+                android:id="@+id/btn_img10"
+                android:layout_width="90sp"
+                android:layout_height="90sp"/>
+
+            <ImageButton android:src="@drawable/u11"
+                android:id="@+id/btn_img11"
+                android:layout_width="90sp"
+                android:layout_height="90sp"/>
+
+            <ImageButton android:src="@drawable/u12"
+                android:id="@+id/btn_img12"
+                android:layout_width="90sp"
+                android:layout_height="90sp"/>
+        </TableRow>
+        <TableRow>
+            <ImageButton android:src="@drawable/u13"
+                android:id="@+id/btn_img13"
+                android:layout_width="90sp"
+                android:layout_height="90sp"/>
+
+            <ImageButton android:src="@drawable/u14"
+                android:id="@+id/btn_img14"
+                android:layout_width="90sp"
+                android:layout_height="90sp"/>
+
+            <ImageButton android:src="@drawable/u15"
+                android:id="@+id/btn_img15"
+                android:layout_width="90sp"
+                android:layout_height="90sp"/>
+
+            <ImageButton android:src="@drawable/u16"
+                android:id="@+id/btn_img16"
+                android:layout_width="90sp"
+                android:layout_height="90sp"/>
+        </TableRow>
+    </TableLayout>
+
+    <!-- This FrameLayout insets its children based on system windows using
+         android:fitsSystemWindows. -->
+
+    <LinearLayout
+        android:id="@+id/fullscreen_content_controls"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:background="@color/colorPrimary"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_mezclar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_mezclar" />
+
+        <Button
+            android:id="@+id/btn_regresar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lbl_regresar" />
+
+    </LinearLayout>
+
+</FrameLayout>

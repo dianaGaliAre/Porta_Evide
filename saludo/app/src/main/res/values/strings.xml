@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">saludo</string>
+    <string name="lbl_saludar">Saludar</string>
+    <string name="lbl_despedir">Despedir</string>
+    <string name="lbl_saludo">Hola Amo...</string>
+    <string name="lbl_despedida">Dulces sueños</string>
+</resources>

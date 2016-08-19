@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Rompecabeza</string>
+    <string name="lbl_nombre">Nombre:</string>
+    <string name="lbl_nombre_r">Mariana Saucedo Hernández.</string>
+    <string name="lbl_numero">Número de Control:</string>
+    <string name="lbl_numero_r">1213100018</string>
+    <string name="lbl_grupo">Grupo:</string>
+    <string name="lbl_grupo_r">GITI7091-E</string>
+    <string name="lbl_asignatura">Asignatura:</string>
+    <string name="lbl_asignatura_r">Optativa II Aplicaciones Móviles</string>
+    <string name="lbl_fecha">Fecha:</string>
+    <string name="lbl_fecha_r">20 de Junio del 2016</string>
+    <string name="dummy_content">Arale</string>
+    <string name="lbl_regresar">Regresar</string>
+    <string name="lbl_mezclar">Mezclar</string>
+</resources>
